@@ -5,8 +5,7 @@ Power BI Project Documentation: Coffee Quality Analysis (CQI Dataset)
 ________________________________________
 ## Project Title:
 Coffee Quality Analysis using Power BI
-Organization:
-Coffee Quality Institute (CQI)
+Organization: Coffee Quality Institute (CQI)
 
 ### Dashboard Link : https://app.powerbi.com/groups/me/reports/8fc0e112-6d08-442b-a807-3e95f5fb7947/52db55ee2c152e362adb?redirectedFromSignup=1&experience=power-bi&bookmarkGuid=751cc238a125a207027f
 ________________________________________
@@ -85,8 +84,8 @@ ________________________________________
 •	Include real-time data from growers or quality labs.
 •	Create an interactive dashboard for farmers or exporters.
 ________________________________________
-
-Prepared by: Angeline Joyce J
-Date: 5/4/2025
-Tool Used: Microsoft Power BI Desktop
+## Author:
+### Prepared by: Angeline Joyce J
+### Tool Used: Microsoft Power BI Desktop
+### Date: 5/4/2025
 
