@@ -84,8 +84,8 @@ ________________________________________
 •	Include real-time data from growers or quality labs.
 •	Create an interactive dashboard for farmers or exporters.
 ________________________________________
-## Author:
-### Prepared by: Angeline Joyce J
-### Tool Used: Microsoft Power BI Desktop
-### Date: 5/4/2025
+## 10. Author:
+#### Prepared by: Angeline Joyce J
+#### Tool Used: Microsoft Power BI Desktop
+#### Date: 5/4/2025
 
