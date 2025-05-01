@@ -1,5 +1,5 @@
 # Coffee Quality Institute
- Coffee Quality Analysis using Power BI
+ Coffee Quality Analysis using **Power BI**
 
 Power BI Project Documentation: Coffee Quality Analysis (CQI Dataset)
 ________________________________________
@@ -14,8 +14,11 @@ The Coffee Quality Institute (CQI), a non-profit based in California, USA, aims 
 ________________________________________
 ## 2. Objectives:
 •	Identify key determinants of coffee quality through sensory attributes.
+
 •	Examine correlation between processing methods, origin regions, and coffee quality scores.
+
 •	Identify patterns in defect occurrences and their impact on overall quality.
+
 •	Understand how different variables interact to influence Total Cup Points.
 ________________________________________
 ## 3. Dataset Description:
@@ -43,12 +46,16 @@ o	Category Two Defects: Over-fermentation, staleness, etc.
 ________________________________________
 ## 4. Tools Used:
 •	Power BI Desktop: For data modeling, analysis, and visualization.
+
 •	Power Query: For data cleaning and transformation.
+
 •	Bookmarks & Selections: For interactive navigation and enhanced user experience.
 ________________________________________
 ## 5. Methodology:
 •	Data Cleaning: Removed nulls, standardized columns (e.g., Harvest Year).
+
 •	Data Modeling: Created relationships between tables where applicable.
+
 •	Visualization:
 o	Bar Charts, Radar Charts: For comparing sensory scores.
 o	Scatter Plots with Trend Lines: For correlation analysis.
@@ -78,6 +85,7 @@ Q4: Interaction of variables influencing Total Cup Points?
 ________________________________________
 ## 7. Challenges:
 •	Some records had Chinese characters which required proper font and encoding support (handled successfully).
+
 •	Complex Navigation Requirement: Used Power BI Bookmarks & Selection Pane to improve user interactivity and make dashboard switching smooth.
 ________________________________________
 ## 8. Conclusion:
@@ -85,7 +93,9 @@ This Power BI project successfully explored various determinants of coffee quali
 ________________________________________
 ## 9. Next Steps (Future Scope):
 •	Integrate machine learning models to predict Total Cup Points.
+
 •	Include real-time data from growers or quality labs.
+
 •	Create an interactive dashboard for farmers or exporters.
 ________________________________________
 ## 10. Author:
