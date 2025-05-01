@@ -61,13 +61,16 @@ ________________________________________
 Q1: What are the key determinants of coffee quality?
 •	Used bar charts and scatter plots to compare each sensory attribute against Total Cup Points.
 •	Found strong positive correlation with attributes like Flavor, Aroma, and Acidity.
+
 Q2: Correlation between processing methods/origin & quality?
 •	Used bar charts, stacked columns, and scatter plots.
 •	Observed that certain processing methods like Washed had higher average scores.
 •	Some regions consistently performed better (e.g., Ethiopia, Colombia).
+
 Q3: Patterns in defects and impact on quality?
 •	Plotted count of Category 1 and 2 defects.
 •	High defects correlated with lower scores in Clean Cup, Uniformity, and Total Points.
+
 Q4: Interaction of variables influencing Total Cup Points?
 •	Created scatter plots and heatmaps to visualize interactions.
 •	Highlighted the additive impact of all sensory scores.
