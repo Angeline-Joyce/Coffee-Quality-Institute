@@ -14,7 +14,6 @@ The Coffee Quality Institute (CQI), a non-profit based in California, USA, aims 
 ________________________________________
 ## 2. Objectives:
 •	Identify key determinants of coffee quality through sensory attributes.
-
 •	Examine correlation between processing methods, origin regions, and coffee quality scores.
 •	Identify patterns in defect occurrences and their impact on overall quality.
 •	Understand how different variables interact to influence Total Cup Points.
@@ -33,6 +32,7 @@ Sensory Evaluation (Score-based):
 •	Sweetness: Pleasant sugary or fruity taste.
 •	Overall: General impression.
 •	Total Cup Points: Sum of the above 10 attributes (known formula).
+
 ## Other Attributes:
 •	Processing Method: Washed, Natural, Honey, etc.
 •	Origin Region/Country: Source of coffee.
