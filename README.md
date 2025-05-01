@@ -6,7 +6,7 @@ ________________________________________
 ## Project Title:
 Coffee Quality Analysis using Power BI
 
-###### Organization: Coffee Quality Institute (CQI)
+##### Organization: Coffee Quality Institute (CQI)
 
 ##### Dashboard Link : [https://app.powerbi.com/groups/me/reports/8fc0e112-6d08-442b-a807-3e95f5fb7947/52db55ee2c152e362adb?redirectedFromSignup=1&experience=power-bi&bookmarkGuid=751cc238a125a207027f]
 ________________________________________
@@ -24,25 +24,42 @@ ________________________________________
 ________________________________________
 ## 3. Dataset Description:
 The dataset contains the following components:
+
 Sensory Evaluation (Score-based):
+
 •	Aroma: Scent/fragrance of the coffee.
+
 •	Flavor: Taste profile (sweetness, bitterness, acidity, etc.).
+
 •	Aftertaste: Lingering taste.
+
 •	Acidity: Brightness or liveliness.
+
 •	Body: Thickness or mouthfeel.
+
 •	Balance: Harmony of all flavors.
+
 •	Uniformity: Consistency across cups.
+
 •	Clean Cup: Absence of defects.
+
 •	Sweetness: Pleasant sugary or fruity taste.
+
 •	Overall: General impression.
+
 •	Total Cup Points: Sum of the above 10 attributes (known formula).
 
 ## Other Attributes:
 •	Processing Method: Washed, Natural, Honey, etc.
+
 •	Origin Region/Country: Source of coffee.
+
 •	Harvest Year: Year the coffee was harvested (cleaned to first year in cases like 2021/2022).
+
 •	Defects:
+
 o	Category One Defects: Black beans, sour beans, etc.
+
 o	Category Two Defects: Over-fermentation, staleness, etc.
 ________________________________________
 ## 4. Tools Used:
@@ -58,28 +75,38 @@ ________________________________________
 •	Data Modeling: Created relationships between tables where applicable.
 
 •	Visualization:
+
 o	Bar Charts, Radar Charts: For comparing sensory scores.
+
 o	Scatter Plots with Trend Lines: For correlation analysis.
+
 o	Heatmaps: To analyze patterns and correlations.
+
 o	Stacked/Clustered Columns: To analyze defects.
+
 o	Bookmarks & Selection Pane: Used to switch between different views dynamically.
+
 o	Slicers & Filters: For interactivity.
 ________________________________________
 ## 6. Key Insights & Analysis:
 Q1: What are the key determinants of coffee quality?
+
 •	Used bar charts and scatter plots to compare each sensory attribute against Total Cup Points.
 •	Found strong positive correlation with attributes like Flavor, Aroma, and Acidity.
 
 Q2: Correlation between processing methods/origin & quality?
+
 •	Used bar charts, stacked columns, and scatter plots.
 •	Observed that certain processing methods like Washed had higher average scores.
 •	Some regions consistently performed better (e.g., Ethiopia, Colombia).
 
 Q3: Patterns in defects and impact on quality?
+
 •	Plotted count of Category 1 and 2 defects.
 •	High defects correlated with lower scores in Clean Cup, Uniformity, and Total Points.
 
 Q4: Interaction of variables influencing Total Cup Points?
+
 •	Created scatter plots and heatmaps to visualize interactions.
 •	Highlighted the additive impact of all sensory scores.
 •	Suggested a possible predictive model using selected features.
