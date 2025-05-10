@@ -8,7 +8,7 @@ Coffee Quality Analysis using Power BI
 
 ##### Organization: Coffee Quality Institute (CQI)
 
-##### Dashboard Link : [https://app.powerbi.com/groups/me/reports/8fc0e112-6d08-442b-a807-3e95f5fb7947/52db55ee2c152e362adb?redirectedFromSignup=1&experience=power-bi&bookmarkGuid=751cc238a125a207027f]
+##### Dashboard Link : https://app.powerbi.com/view?r=eyJrIjoiNWY4MDZmZGUtMTAyYS00MmViLWEyZDUtNDhlMGFlZjA2MTkyIiwidCI6IjVlMWVlNzI5LWI1M2MtNDJmMS05NzU4LTNjOGFkYWZlMTEwMCJ9
 ________________________________________
 ## 1. Project Overview:
 The Coffee Quality Institute (CQI), a non-profit based in California, USA, aims to improve the quality and value of coffee worldwide. This project leverages data from CQI to analyze various factors that influence coffee quality using Power BI.
